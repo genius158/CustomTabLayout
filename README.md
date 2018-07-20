@@ -1,3 +1,5 @@
 # CustomTabLayout
- <attr name="cusWidthCutOffset" format="dimension" />
- <attr name="cusNinePatchResId" format="reference" />
+<br/>
+attr name="cusWidthCutOffset" format="dimension"
+<br/>
+attr name="cusNinePatchResId" format="reference"
